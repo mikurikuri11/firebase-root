@@ -1,6 +1,6 @@
 [submodule "api"]
   path = api
-  url = ./api
+  url = https://github.com/mikurikuri1919/verify-firebase-back.git
 [submodule "front"]
   path = front
-  url = ./front
+  url = https://github.com/mikurikuri1919/firebase-front.git
